@@ -1,0 +1,10 @@
+// app global css in SCSS form
+@font-face {
+  font-family: FontPokemon;
+  src: url(../Font/PokemonSolid.woff);
+}
+
+// declare a class which applies it
+.my-font {
+  font-family: "FontPokemon";
+}
